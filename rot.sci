@@ -1,3 +1,4 @@
+// Alberto Oporto Ames 100%
 exec("Rmat.sci")
 
 // Rotación con el vector unitario y el ángulo

@@ -1,4 +1,7 @@
+// Alberto Oporto Ames 100%
+// La función que proyecta desde el lente
 function [A, B, C, D] = projection(d)
+    // En el pdf dicen que son centímetros
     _A=[1; -0.01; -0.02]
     _B=[1; 0.01; -0.02]
     _C=[1; 0.01; 0.02]

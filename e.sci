@@ -1,3 +1,4 @@
+// Alberto Oporto Ames 100%
 exec("rotE.sci")
 
 [A B C D] = rotE([1,0,0], 53, 5)

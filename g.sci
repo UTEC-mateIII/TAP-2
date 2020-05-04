@@ -1,3 +1,4 @@
+// Alberto Oporto Ames 100%
 exec("rotE.sci")
 
 d=6

@@ -1,3 +1,6 @@
+// Alberto Oporto Ames 100%
+
+// Una función para una función el ejercicio R
 function [R] = Rmat(u, theta)
     R = zeros(3,3)
     
